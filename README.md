@@ -14,7 +14,7 @@ Welcome to the Face Clustering App! This application allows you to cluster and v
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Arun-Raghav-S/face-clustering
+    git clone https://github.com/sujayv16/face-clustering
     ```
 
 2. Navigate to the project directory:
